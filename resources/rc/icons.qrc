@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../icons/alarm.png</file>
+    <file>../icons/clock-check-outline.png</file>
+    <file>../icons/firefox_icon.png</file>
+    <file>../icons/houdini_icon.png</file>
+    <file>../icons/minus.png</file>
+    <file>../icons/pause.png</file>
+    <file>../icons/plus.png</file>
+    <file>../icons/restart.png</file>
+    <file>../icons/stop.png</file>
+    <file>../icons/terminal_icon.png</file>
+    <file>../icons/timer-play.png</file>
+  </qresource>
+</RCC>
